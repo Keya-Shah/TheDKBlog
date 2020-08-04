@@ -1,0 +1,30 @@
+img{
+
+	width: 100px;
+	height: 100px;
+}
+
+
+ h1 {
+	font-family:Candara,garamond,serif;
+	font-size:32px;
+}
+
+h2{
+	font-family:Candara,garamond,serif;
+}
+
+p{ 
+	font-family:Candara,garamond,serif;
+	font-size:16px;
+}
+
+ul{ 
+	font-family:Candara,garamond,serif;
+	font-size:18px;
+}
+
+a{ 
+	font-family:Candara,garamond,serif;
+        font-size: 18px
+}
